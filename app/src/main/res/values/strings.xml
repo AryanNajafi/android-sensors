@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sensors</string>
+
+    <string name="notification_title">Reporting sensors events…</string>
+    <string name="interval_title">Report interval:</string>
+    <string name="start_button_title">Start</string>
+    <string name="stop_button_title">Stop</string>
+    <string name="gps_title">GPS</string>
+    <string name="gps_latitude_title">Latitude: %f</string>
+    <string name="gps_longitude_title">Longitude: %f</string>
+    <string name="gps_altitude_title">Altitude: %f</string>
+    <string name="gps_time_title">Time: %d</string>
+    <string name="gps_speed_title">Speed: %f</string>
+    <string name="accelerometer_title">Accelerometer</string>
+    <string name="gyroscope_title">Gyroscope</string>
+    <string name="magnetic_field_title">Magnetic Field</string>
+    <string name="x_axis_title">x-axis: %f</string>
+    <string name="y_axis_title">y-axis: %f</string>
+    <string name="z_axis_title">z-axis: %f</string>
+
+</resources>
