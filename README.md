@@ -3,7 +3,7 @@
 An Android application that displays and records GPS and Sensors data.
 Exports recorded data in a JSON file in Android external storage Downloads Folder.
 
-> Application is not depends on Play services FusedLocationApi. GPS data gather from Android Location Service
+> Application does not depend on Play services FusedLocationApi. GPS data gathered from Android Location Service
 
 ## Currently supported data
 
